@@ -1,0 +1,29 @@
+#chat-messages {
+    min-height: 10vh;
+    height: 80vh;
+    width: 100%;
+    overflow-y: scroll;
+	background-image: url("https://fsb.zobj.net/crop.php?r=VLS6cg2eXxwBLq64am7FsB4bxGcKMTrgqrR9yrFOp8NntAdurcTd5oCF4poRSrRMtHlp5_Dz_unvl1Oxv_F2AFjb5A09H9o9Tvn7ABWqkQepu927qRXnm2rlDNod-ULhOcpJquBHXbibn2gnM8pmda-WxEml95c7YEYkg1xkOlS7dxoZgqbaNogRSeQ");
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+
+nav{
+background-color: #5fb236;
+}
+
+footer{
+background-color: #5fb236;
+}
+.btn{
+background-color:#54f3ad;
+}
